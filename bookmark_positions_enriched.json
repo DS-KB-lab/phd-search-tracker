@@ -593,5 +593,158 @@
     "notes": [
       "Job page is JS-heavy in fetch; title resolves correctly, so manual browser check recommended for deadline."
     ]
+  },
+  {
+    "title": "Doctoral student in Data-Efficient Machine Learning Models For Histopathology",
+    "url": "https://www.kth.se/lediga-jobb/857960?l=en",
+    "folder": "Expanded leads/KTH",
+    "country": "Sweden",
+    "kind": "direct",
+    "area": [
+      "medical imaging AI"
+    ],
+    "directionTag": "medical imaging AI",
+    "deadline": "unknown",
+    "status": "active",
+    "host": "www.kth.se",
+    "notes": [
+      "Search-derived lead from KTH vacancies. Precision pathology / histopathology with AI."
+    ]
+  },
+  {
+    "title": "Doctoral student in medical image processing",
+    "url": "https://www.kth.se/en/api/2.61673/what:job/jobID:331004/where:4/",
+    "folder": "Expanded leads/KTH",
+    "country": "Sweden",
+    "kind": "direct",
+    "area": [
+      "medical imaging AI"
+    ],
+    "directionTag": "medical imaging AI",
+    "deadline": "unknown",
+    "status": "unknown",
+    "host": "www.kth.se",
+    "notes": [
+      "Older but highly relevant KTH medical image processing vacancy lead; may be archived/expired."
+    ]
+  },
+  {
+    "title": "Doctoral student in models, algorithms, and optimization for machine learning",
+    "url": "https://www.kth.se/lediga-jobb/898105?l=en",
+    "folder": "Expanded leads/KTH",
+    "country": "Sweden",
+    "kind": "direct",
+    "area": [
+      "general AI"
+    ],
+    "directionTag": "general AI",
+    "deadline": "unknown",
+    "status": "active",
+    "host": "www.kth.se",
+    "notes": [
+      "General AI / ML doctoral opening from KTH search results."
+    ]
+  },
+  {
+    "title": "PhD student in biomedical engineering, deep learning for medical images",
+    "url": "https://liu.se/en/work-at-liu/vacancies/28118",
+    "folder": "Expanded leads/Linköping",
+    "country": "Sweden",
+    "kind": "direct",
+    "area": [
+      "medical imaging AI"
+    ],
+    "directionTag": "medical imaging AI",
+    "deadline": "unknown",
+    "status": "expired",
+    "host": "liu.se",
+    "notes": [
+      "Very strong-fit LiU vacancy lead. Current URL appears gone, so treat as expired lead / lab pointer."
+    ]
+  },
+  {
+    "title": "15 doctoral positions in the BRIDGE-AI network (AI-Health)",
+    "url": "https://www.aalto.fi/en/open-positions/15-doctoral-positions-in-the-bridge-ai-network-ai-health",
+    "folder": "Expanded leads/Aalto",
+    "country": "Finland",
+    "kind": "direct",
+    "area": [
+      "medical imaging AI"
+    ],
+    "directionTag": "medical imaging AI",
+    "deadline": "unknown",
+    "status": "active",
+    "host": "www.aalto.fi",
+    "notes": [
+      "Search snippet explicitly mentions computational brain imaging and medical imaging collaboration."
+    ]
+  },
+  {
+    "title": "Doctoral and post-doctoral positions open in Hybrid Intelligence (computer vision and deep learning)",
+    "url": "https://www.oulu.fi/en/news/doctoral-and-post-doctoral-computer-vision-and-deep-learning-positions-open-hybrid-intelligence",
+    "folder": "Expanded leads/Oulu",
+    "country": "Finland",
+    "kind": "direct",
+    "area": [
+      "general AI"
+    ],
+    "directionTag": "general AI",
+    "deadline": "unknown",
+    "status": "unknown",
+    "host": "www.oulu.fi",
+    "notes": [
+      "Computer vision and deep learning doctoral lead from Oulu. Current status should be manually checked."
+    ]
+  },
+  {
+    "title": "Medical Imaging in Diagnostics, Algorithms and Software (MIDAS)",
+    "url": "https://www.oulu.fi/en/research-groups/medical-imaging-diagnostics-algorithms-and-software-midas",
+    "folder": "Expanded leads/Oulu",
+    "country": "Finland",
+    "kind": "portal",
+    "area": [
+      "medical imaging AI"
+    ],
+    "directionTag": "medical imaging AI",
+    "deadline": "unknown",
+    "status": "ongoing portal",
+    "host": "www.oulu.fi",
+    "notes": [
+      "Strong medical imaging AI lab lead; useful to track future doctoral openings."
+    ]
+  },
+  {
+    "title": "Signal processing and Biomedical Engineering / Computer vision and medical image analysis",
+    "url": "https://www.chalmers.se/en/departments/e2/research/signal-processing-and-biomedical-engineering/",
+    "folder": "Expanded leads/Chalmers",
+    "country": "Sweden",
+    "kind": "portal",
+    "area": [
+      "medical imaging AI"
+    ],
+    "directionTag": "medical imaging AI",
+    "deadline": "unknown",
+    "status": "ongoing portal",
+    "host": "www.chalmers.se",
+    "notes": [
+      "Research environment at Chalmers explicitly covers machine learning and medical image analysis."
+    ]
+  },
+  {
+    "title": "AIQEN – Artificial Intelligence for Quality in Endoscopy",
+    "url": "https://www.gu.se/en/research/aiqen",
+    "folder": "Expanded leads/Gothenburg",
+    "country": "Sweden",
+    "kind": "portal",
+    "area": [
+      "medical imaging AI"
+    ],
+    "directionTag": "medical imaging AI",
+    "deadline": "unknown",
+    "status": "ongoing portal",
+    "host": "www.gu.se",
+    "notes": [
+      "Medical AI / endoscopy / computer vision research lead; good for future PhD scouting."
+    ]
   }
 ]
