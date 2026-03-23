@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>PhD 检索看板</title>
+  <style>
+    body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;max-width:1100px;margin:0 auto;padding:32px 20px;background:#f7f8fc;color:#1f2430}
+    h1,h2{margin:0 0 12px}
+    .muted{color:#5b6475}
+    .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:16px}
+    .card{background:white;border-radius:16px;padding:18px;box-shadow:0 6px 22px rgba(26,34,56,.08)}
+    .pill{display:inline-block;padding:4px 10px;border-radius:999px;font-size:12px;margin:4px 6px 0 0;background:#eef2ff;color:#334}
+    .high{background:#dff7e8;color:#136c3f}.medium{background:#fff2d8;color:#8a5a00}
+    a{color:#2457ff;text-decoration:none} a:hover{text-decoration:underline}
+    ul{padding-left:18px} li{margin:6px 0}
+    table{width:100%;border-collapse:collapse;background:white;border-radius:16px;overflow:hidden;box-shadow:0 6px 22px rgba(26,34,56,.08)}
+    th,td{padding:12px 10px;border-bottom:1px solid #eef1f6;vertical-align:top;text-align:left}
+    th{background:#f1f4fb}
+    .section{margin-top:28px}
+    code{background:#eef1f6;padding:2px 6px;border-radius:6px}
+  </style>
+</head>
+<body>
+  <h1>PhD 检索看板</h1>
+  <p class="muted">基于 Chrome 书签中的 <code>phd检索</code>、<code>北欧</code> 和已单独收藏的岗位，整理出一个可继续维护、后续可发布到 GitHub Pages 的静态网页草稿。</p>
+
+  <div class="grid section">
+    <div class="card">
+      <h2>当前进度</h2>
+      <ul>
+        <li>已提取书签来源列表</li>
+        <li>已整理一批 AI / 医疗 AI 相关岗位线索</li>
+        <li>已生成静态网页草稿</li>
+        <li>尚未正式发布到 GitHub（等待确认）</li>
+      </ul>
+    </div>
+    <div class="card">
+      <h2>PDF 检查</h2>
+      <p>在 <strong>phd检索</strong> 与 <strong>北欧</strong> 两个书签文件夹里，当前没有直接收藏为 <code>.pdf</code> 的链接。</p>
+      <p class="muted">但在其他文件夹（如 UiT）里存在医学影像相关 PDF 书签，可在下一轮一并并入。</p>
+    </div>
+    <div class="card">
+      <h2>建议筛选方向</h2>
+      <span class="pill high">Medical Imaging AI</span>
+      <span class="pill high">Computer Vision</span>
+      <span class="pill medium">Trustworthy ML</span>
+      <span class="pill medium">Clinical AI / Health Data</span>
+      <span class="pill medium">General AI PhD</span>
+    </div>
+  </div>
+
+  <div class="section">
+    <h2>重点机会（初版）</h2>
+    <table>
+      <thead>
+        <tr><th>岗位</th><th>机构</th><th>国家</th><th>方向</th><th>匹配度</th><th>备注</th></tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><a href="https://www.vacancies.aau.dk/phd-positions/show-vacancy/vacancyId/914517">Two PhD Positions in AI for Health Data</a></td>
+          <td>Aalborg University</td><td>Denmark</td><td>Health Data / GenAI / Clinical AI</td><td>高</td>
+          <td>更偏健康数据与临床 AI，不是纯医学影像，但方向很近。</td>
+        </tr>
+        <tr>
+          <td><a href="https://liu.se/en/work-at-liu/vacancies/28118">PhD student in biomedical engineering, deep learning for medical images</a></td>
+          <td>Linköping University</td><td>Sweden</td><td>Medical Imaging / DL</td><td>高</td>
+          <td>主题非常贴，但当前链接已失效，需人工复核最新 vacancy。</td>
+        </tr>
+        <tr>
+          <td><a href="https://www.jobbnorge.no/en/available-jobs/joblisting/pdf/285838">UiT medical image analysis PhD lead</a></td>
+          <td>UiT</td><td>Norway</td><td>Medical Image Analysis / CV</td><td>高</td>
+          <td>很符合你目前方向，可能已过期，但实验室线索价值很高。</td>
+        </tr>
+        <tr>
+          <td><a href="https://www.jobbnorge.no/en/available-jobs/job/296254/phd-research-fellow-in-trustworthy-machine-learning">PhD Research Fellow in Trustworthy Machine Learning</a></td>
+          <td>University of Oslo</td><td>Norway</td><td>Trustworthy ML</td><td>中</td>
+          <td>更偏基础 AI/ML，适合作为扩展备选。</td>
+        </tr>
+        <tr>
+          <td><a href="https://su.varbi.com/what:job/jobID:901900/where:4/">PhD student in Computer and Systems Sciences</a></td>
+          <td>Stockholm University</td><td>Sweden</td><td>Data Science / ML / Healthcare</td><td>中</td>
+          <td>偏广义 data science，医疗场景有覆盖。</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="grid section">
+    <div class="card">
+      <h2>书签来源：phd检索</h2>
+      <ul>
+        <li>Academic Positions</li>
+        <li>Jobbnorge</li>
+        <li>ScholarshipDB</li>
+        <li>Nature Careers</li>
+        <li>EURAXESS</li>
+        <li>FindAPhD</li>
+        <li>PhDFinder</li>
+      </ul>
+    </div>
+    <div class="card">
+      <h2>书签来源：北欧</h2>
+      <ul>
+        <li>KTH / Stockholm / Chalmers / LiU / GU / Umeå</li>
+        <li>AAU / SDU / ITU / Aarhus</li>
+        <li>Aalto / Tampere / Oulu</li>
+        <li>以及多所瑞典高校招聘页</li>
+      </ul>
+    </div>
+    <div class="card">
+      <h2>下一步建议</h2>
+      <ol>
+        <li>补抓每个北欧高校招聘页中的活跃岗位</li>
+        <li>把其他文件夹中的医学影像 PDF 一并纳入</li>
+        <li>加入 deadline / professor / keyword / country 筛选</li>
+        <li>确认 GitHub 仓库后公开发布</li>
+      </ol>
+    </div>
+  </div>
+</body>
+</html>

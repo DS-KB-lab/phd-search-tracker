@@ -1,0 +1,93 @@
+[
+  {
+    "title": "Two PhD Positions in AI for Health Data within the AI:HealthData Lab",
+    "institution": "Aalborg University",
+    "country": "Denmark",
+    "city": "Aalborg",
+    "area": ["AI", "Health Data", "Clinical AI"],
+    "fit": "high",
+    "source": "bookmarks/ppd",
+    "status": "appears open",
+    "url": "https://www.vacancies.aau.dk/phd-positions/show-vacancy/vacancyId/914517",
+    "summary": "Two PhD stipends under AI:X. One focuses on AI-driven data management and knowledge graphs over health records; the other on clinically grounded generative-AI-supported patient summaries for general practice.",
+    "notes": ["Strong fit for healthcare AI", "More health data / clinical NLP than imaging", "Danish helpful/required for one of the two tracks"]
+  },
+  {
+    "title": "PhD scholarship in Artificial Intelligence",
+    "institution": "University of Southern Denmark (SDU)",
+    "country": "Denmark",
+    "city": "Odense",
+    "area": ["Artificial Intelligence"],
+    "fit": "medium",
+    "source": "bookmarks/ppd",
+    "status": "bookmarked; detail fetch limited",
+    "url": "https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/3686/?lastSelectedFacet=CATEGORIES&selectedCategoriesFacet=300000002425892",
+    "summary": "Bookmarked direct SDU AI PhD vacancy. The page is JS-heavy, so details need a browser/manual pass.",
+    "notes": ["Good general AI lead", "Needs browser verification for deadline and supervisor/topic detail"]
+  },
+  {
+    "title": "PhD student in Computer and Systems Sciences, focus on Data Science",
+    "institution": "Stockholm University",
+    "country": "Sweden",
+    "city": "Stockholm/Kista",
+    "area": ["Data Science", "Machine Learning", "Healthcare applications"],
+    "fit": "medium",
+    "source": "bookmarks/ppd",
+    "status": "appears open",
+    "url": "https://su.varbi.com/what:job/jobID:901900/where:4/",
+    "summary": "Project focuses on advanced data mining and machine learning for large, complex, heterogeneous multimodal data, with emphasis on temporal data and critical applications such as healthcare.",
+    "notes": ["Broad data science framing", "Healthcare application mentioned", "Not specifically medical imaging"]
+  },
+  {
+    "title": "PhD Research Fellow in Trustworthy Machine Learning",
+    "institution": "University of Oslo",
+    "country": "Norway",
+    "city": "Oslo",
+    "area": ["Trustworthy ML", "AI"],
+    "fit": "medium",
+    "source": "bookmarks/ppd",
+    "status": "bookmarked; detail fetch limited",
+    "url": "https://www.jobbnorge.no/en/available-jobs/job/296254/phd-research-fellow-in-trustworthy-machine-learning",
+    "summary": "Directly bookmarked PhD opening in trustworthy machine learning at UiO.",
+    "notes": ["Relevant for core AI path", "Need browser/manual pass for full description and deadline"]
+  },
+  {
+    "title": "PhD Research Fellow in Deep Learning for Medical ...",
+    "institution": "University of Oslo",
+    "country": "Norway",
+    "city": "Oslo",
+    "area": ["Deep Learning", "Medical AI", "Medical Imaging"],
+    "fit": "high",
+    "source": "web_search/jobbnorge",
+    "status": "search result found; verify in browser",
+    "url": "https://www.jobbnorge.no/en/available-jobs/joblisting/pdf/294560",
+    "summary": "Search result indicates a PhD research fellow position in deep learning for medical-related work at Department of Informatics, UiO.",
+    "notes": ["Potentially very strong fit", "Need direct vacancy page / PDF validation"]
+  },
+  {
+    "title": "UiT medical image analysis PhD lead",
+    "institution": "UiT The Arctic University of Norway",
+    "country": "Norway",
+    "city": "Tromsø",
+    "area": ["Medical Image Analysis", "Computer Vision", "Machine Learning"],
+    "fit": "high",
+    "source": "web_search/jobbnorge",
+    "status": "search result found; likely older/verify current status",
+    "url": "https://www.jobbnorge.no/en/available-jobs/joblisting/pdf/285838",
+    "summary": "Search snippet mentions spatio-temporal medical image analysis, limited labelled data, UiT Machine Learning Group, and Visual Intelligence affiliation.",
+    "notes": ["Very aligned with medical imaging AI", "May be expired; still useful as lab/supervisor lead"]
+  },
+  {
+    "title": "PhD student in biomedical engineering, deep learning for medical images",
+    "institution": "Linköping University",
+    "country": "Sweden",
+    "city": "Linköping",
+    "area": ["Biomedical Engineering", "Deep Learning", "Medical Images"],
+    "fit": "high",
+    "source": "web_search/liu",
+    "status": "search result found; bookmarked page now 404",
+    "url": "https://liu.se/en/work-at-liu/vacancies/28118",
+    "summary": "Search result explicitly references deep learning for medical images and asks for computer vision / medical image analysis expertise.",
+    "notes": ["Excellent thematic fit", "Current vacancy URL appears gone; use as lab/program lead rather than active post until verified"]
+  }
+]
